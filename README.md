@@ -222,7 +222,7 @@ The repository includes:
 ## 📁 Repository Structure
 
 ```text
-sentiment-analysis-naive-bayes-study/
+disaster-tweet-classification-nlp/
 │
 ├── notebooks/
 │   ├── 00_legacy_2024_version.ipynb
