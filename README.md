@@ -23,6 +23,16 @@ The workflow includes:<br>
 
 ---
 
+## 📘 Main Notebook
+
+The primary notebook for this project is:
+
+- `02_modeling_and_evaluation.ipynb`
+
+This notebook contains the complete NLP workflow, including preprocessing, model comparison, hyperparameter tuning, evaluation, and error analysis.
+
+---
+
 ## 🎯 Business Problem
 
 Social media platforms often become one of the fastest sources of information during natural disasters, emergencies, and crisis events. However, large volumes of noisy and informal text make it difficult to identify genuinely important content in real time.
