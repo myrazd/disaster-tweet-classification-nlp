@@ -236,22 +236,6 @@ sentiment-analysis-naive-bayes-study/
 
 ---
 
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/myrazd/sentiment-analysis-naive-bayes-study.git
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## 📌 Final Conclusion
 
 This project demonstrates how classical NLP and machine learning techniques can still provide strong baseline performance for text classification tasks.
